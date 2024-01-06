@@ -861,11 +861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Folder\\WEB_API\\WEB_API.csproj",
+      "projectUniqueName": "E:\\C# Folder\\WEB_API\\WebAPISample.NET\\WEB_API.csproj",
       "projectName": "WEB_API",
-      "projectPath": "E:\\C# Folder\\WEB_API\\WEB_API.csproj",
+      "projectPath": "E:\\C# Folder\\WEB_API\\WebAPISample.NET\\WEB_API.csproj",
       "packagesPath": "C:\\Users\\sachi\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Folder\\WEB_API\\obj\\",
+      "outputPath": "E:\\C# Folder\\WEB_API\\WebAPISample.NET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
